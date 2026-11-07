@@ -21,7 +21,9 @@ Python 3.13.3
 
 ## Running
     jupyter notebook notebooks/01_data_and_baseline.ipynb
+    jupyter notebook notebooks/02_model_comparison.ipynb
 
-Then **Kernel → Restart & Run All**.
+Run each with **Kernel → Restart & Run All**. Notebook 02 imports shared functions from `src/sloinnte_utils.py`.
+
 
 
